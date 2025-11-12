@@ -6,17 +6,17 @@
       <description>Last 10 notes on ShanksMakesStuff</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Theory Zero</title>
+    <link>https://shanksmakesstuff.xyz/Theory-Zero</link>
+    <guid>https://shanksmakesstuff.xyz/Theory-Zero</guid>
+    <description> .page-title { font-size: 1.70rem; text-wrap: nowrap; max-inline-size: 25vw; overflow: hidden; flex-wrap: no-wrap; } Brief Introduction: This novelette attempts to explain why individuals organise into societal structures from a rules and survival based perspective, exploring historical examples and...</description>
+    <pubDate>Wed, 12 Nov 2025 17:59:04 GMT</pubDate>
+  </item><item>
     <title>index</title>
     <link>https://shanksmakesstuff.xyz/</link>
     <guid>https://shanksmakesstuff.xyz/</guid>
     <description> window.location.href = `shashankraocoding.github.io/Theory-Zero/Theory-Zero.html` .page-title { font-size: 1.70rem; } .</description>
     <pubDate>Sat, 04 Oct 2025 22:16:06 GMT</pubDate>
-  </item><item>
-    <title>Theory Zero</title>
-    <link>https://shanksmakesstuff.xyz/Theory-Zero</link>
-    <guid>https://shanksmakesstuff.xyz/Theory-Zero</guid>
-    <description> .page-title { font-size: 1.70rem; text-wrap: nowrap; max-inline-size: 25vw; overflow: hidden; flex-wrap: no-wrap; } Brief Introduction: This novelette attempts to explain why individuals organise into societal structures from a rules and survival based perspective, exploring historical examples and...</description>
-    <pubDate>Wed, 17 Sep 2025 23:19:50 GMT</pubDate>
   </item>
     </channel>
   </rss>
